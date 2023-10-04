@@ -1,0 +1,6 @@
+[submodule "ckad-crash-course"]
+	path = ckad-crash-course
+	url = https://github.com/bmuschko/ckad-crash-course.git
+[submodule "CKAD-exercises"]
+	path = CKAD-exercises
+	url = https://github.com/dgkanatsios/CKAD-exercises.git
